@@ -1,7 +1,9 @@
 # Angry Judge: The Short Rant Contest
 
 [![make.fun · u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046](https://make.fun/badge/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046.svg)](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046?utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046)
+
 [![rank](https://make.fun/badge/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046/Wahyupurnomoaji21/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046-v2/rank.svg)](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046)
+
 [![reward](https://make.fun/badge/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046/Wahyupurnomoaji21/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046-v2/reward.svg)](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046?utm_source=github&utm_medium=readme&utm_campaign=u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046)
 
 Entry for the [make.fun bounty "Angry Judge: The Short Rant Contest"](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046) ($2).
